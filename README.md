@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <a href="https://www.reddit.com/user/warhammer327" target="_blank"><img width="40" height="40" src="/icons/reddit.png"></a>
   <a href="https://www.linkedin.com/in/warhammer327/" target="_blank"><img width="40" height="40" src="/icons/linkedIn.png"></a>
 </p>
-# Languages I know
+### Languages I know
 <p align="left">
   <img width="40" height="40" src="/icons/c.png">
   <img width="40" height="40" src="/icons/c++.png">
