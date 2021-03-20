@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### Reach Me
+<p align="center">
+  <img width="200" height="200" src="/icons/reddit.png">
+</p>
