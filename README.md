@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 <p align="left">
   <img width="40" height="40" src="/icons/c.png">
   <img width="40" height="40" src="/icons/c++.png">
-  <img width="40" height="40" src="/icons/c#.png">
+  <img width="40" height="40" src="/icons/csharp.png">
   <img width="40" height="40" src="/icons/python.png">
 </p>
