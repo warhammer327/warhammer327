@@ -1,5 +1,6 @@
-### Hi there 👋
 ![](https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif)
+
+### Hi there 👋
 <!--
 **warhammer327/warhammer327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
