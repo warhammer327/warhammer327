@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Reach Me
-<p align="center">
+<p align="left">
   <img width="20" height="20" src="/icons/reddit.png">
+  <img width="20" height="20" src="/icons/linkedin.png">
 </p>
