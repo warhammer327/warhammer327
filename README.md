@@ -2,7 +2,7 @@
   <img width="460" height="300" src="monkeycoder.gif">
 </p>
 
-# Hi there 👋
+# Hi there, stranger 👋
 <!--
 **warhammer327/warhammer327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Reach Me
-<p align="left">
-  <a href="https://www.reddit.com/user/warhammer327" target="_blank"><img width="40" height="40" src="/icons/reddit.png"></a>
-  <a href="https://www.linkedin.com/in/warhammer327/" target="_blank"><img width="40" height="40" src="/icons/linkedIn.png"></a>
-</p>
+
 
 ### Languages I know
 <p align="left">
@@ -29,4 +25,25 @@ Here are some ideas to get you started:
   <img width="40" height="40" src="/icons/c++.png">
   <img width="40" height="40" src="/icons/csharp.png">
   <img width="40" height="40" src="/icons/python.png">
+</p>
+
+
+### Currently I'm working with
+<p align="left">
+  <img width="40" height="40" src="/icons/unity.png">
+  <img width="40" height="40" src="/icons/csharp.png">  
+</p>
+
+### Worked with in past 
+<p align="left">
+  <img width="40" height="40" src="/icons/django.png">
+  <img width="40" height="40" src="/icons/python.png">
+  <img width="40" height="40" src="/icons/html.png">
+  <img width="40" height="40" src="/icons/css.png">
+</p>
+
+### Reach Me
+<p align="left">
+  <a href="https://www.reddit.com/user/warhammer327" target="_blank"><img width="40" height="40" src="/icons/reddit.png"></a>
+  <a href="https://www.linkedin.com/in/warhammer327/" target="_blank"><img width="40" height="40" src="/icons/linkedIn.png"></a>
 </p>
