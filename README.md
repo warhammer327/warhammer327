@@ -21,26 +21,25 @@ Here are some ideas to get you started:
 
 ### Languages I know
 <p align="left">
-  <img width="40" height="40" src="/icons/c.png">
-  <img width="40" height="40" src="/icons/c++.png">
-  <img width="40" height="40" src="/icons/csharp.png">
-  <img width="40" height="40" src="/icons/python.png">
+   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img width="40" height="40" src="/icons/c.png"></a>
+   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img width="40" height="40" src="/icons/c++.png"></a>
+   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img width="40" height="40" src="/icons/csharp.png"></a>
+   <a href="https://www.python.org/about/gettingstarted/" target="_blank"><img width="40" height="40" src="/icons/python.png"></a>
 </p>
 
 
 ### Currently I'm working with
 <p align="left">
-  <img width="40" height="40" src="/icons/unity.png">
- 
-  <img width="40" height="40" src="/icons/csharp.png">  
+   <a href="https://unity.com/" target="_blank"><img width="40" height="40" src="/icons/unity.png"></a>
+   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img width="40" height="40" src="/icons/csharp.png"></a>
 </p>
 
 ### Worked with in past 
 <p align="left">
-  <img width="40" height="40" src="/icons/django.png">
-  <img width="40" height="40" src="/icons/python.png">
-  <img width="40" height="40" src="/icons/html.png">
-  <img width="40" height="40" src="/icons/css.png">
+  <a href="https://www.djangoproject.com/" target="_blank"><img width="40" height="40" src="/icons/django.png"></a>
+  <a href="https://www.python.org/about/gettingstarted/" target="_blank"><img width="40" height="40" src="/icons/python.png"></a>
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img width="40" height="40" src="/icons/html.png"></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img width="40" height="40" src="/icons/css.png"></a>
 </p>
 
 #### Reach Me
