@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif)
+![](monkeycoder.gif)
 
 ### Hi there 👋
 <!--
