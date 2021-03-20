@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Reach Me
+## Reach Me
 <p align="left">
-  <img width="20" height="20" src="/icons/reddit.png">
-  <img width="20" height="20" src="/icons/linkedIn.png">
+  <img width="40" height="40" src="/icons/reddit.png">
+  <img width="40" height="40" src="/icons/linkedIn.png">
 </p>
