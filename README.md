@@ -17,7 +17,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
+.hide {
+  display: none;
+}
+    
+.myDIV:hover + .hide {
+  display: block;
+  color: red;
+}
+</style>
 
+<div class="myDIV">Hover over me.</div>
+<div class="hide">I am shown when someone hovers over the div above.</div>
 
 ### Languages I know
 <p align="left">
@@ -30,7 +42,8 @@ Here are some ideas to get you started:
 
 ### Currently I'm working with
 <p align="left">
-  <img width="40" height="40" src="/icons/unity.png">
+  <div class="myDIV"><img width="40" height="40" src="/icons/unity.png"></div>
+  <div class="hide">Unity</div>
   <img width="40" height="40" src="/icons/csharp.png">  
 </p>
 
@@ -42,7 +55,7 @@ Here are some ideas to get you started:
   <img width="40" height="40" src="/icons/css.png">
 </p>
 
-### Reach Me
+#### Reach Me
 <p align="left">
   <a href="https://www.reddit.com/user/warhammer327" target="_blank"><img width="40" height="40" src="/icons/reddit.png"></a>
   <a href="https://www.linkedin.com/in/warhammer327/" target="_blank"><img width="40" height="40" src="/icons/linkedIn.png"></a>
