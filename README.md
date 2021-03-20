@@ -1,4 +1,3 @@
-![](monkeycoder.gif)
 <p align="center">
   <img width="460" height="300" src="monkeycoder.gif">
 </p>
