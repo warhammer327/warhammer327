@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="200" src="monkeycoder.gif">
+  <img width="300" height="200" src="monkeycoder.gif">
 </p>
 
 # Hi there, stranger 👋
