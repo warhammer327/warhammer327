@@ -50,6 +50,7 @@ Here are some ideas to get you started:
   <a href="https://www.vim.org/" target="_blank"><img width="40" height="40" src="/icons/vim.png"></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img width="40" height="40" src="/icons/vscode.png"></a>
 </p>
+
 #### Reach Me
 <p align="left">
   <a href="https://www.reddit.com/user/warhammer327" target="_blank"><img width="40" height="40" src="/icons/reddit.png"></a>
