@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 ### Currently I'm working with
 <p align="left">
-   <a href="https://unity.com/" target="_blank"><img width="40" height="40" src="/icons/unity.png"></a>
-   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img width="40" height="40" src="/icons/csharp.png"></a>
+   <a href="https://www.djangoproject.com/" target="_blank"><img width="40" height="40" src="/icons/django.png"></a>
+   <a href="https://www.python.org/about/gettingstarted/" target="_blank"><img width="40" height="40" src="/icons/python.png"></a>
 </p>
 
 ### Worked with in past 
@@ -40,6 +40,8 @@ Here are some ideas to get you started:
   <a href="https://www.python.org/about/gettingstarted/" target="_blank"><img width="40" height="40" src="/icons/python.png"></a>
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img width="40" height="40" src="/icons/html.png"></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img width="40" height="40" src="/icons/css.png"></a>
+  <a href="https://unity.com/" target="_blank"><img width="40" height="40" src="/icons/unity.png"></a>
+  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img width="40" height="40" src="/icons/csharp.png"></a>
 </p>
 
 ### My favourite tools
