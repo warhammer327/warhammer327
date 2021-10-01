@@ -1,6 +1,53 @@
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+   <style>
+      #boxes {
+        content: "";
+        display: table;
+        clear: both;
+      }
+      div {
+        float: left;
+        height: 47px;
+        width: 23%;
+        padding: 0 10px;
+      }
+      #column1 {
+        background-color: #a1edcc;
+      }
+      #column2 {
+        background-color: #a0e9ed;
+        width: 43%;
+      }
+      #column3 {
+        background-color: #f497f1;
+      }
+      h2 {
+        color: #000000;
+        text-align: center;
+      }
+    </style>
+
+<main id="boxes">
+      <h2>W3docs</h2>
+      <div id="column1">
+        <h2>What is Lorem Ipsum?</h2> 
+        
+      </div>
+      <div id="column2">
+        <h2>Why do we use it?</h2> 
+       
+      </div>
+      <div id="column3">
+        <h2>Where does it come from?:</h2> 
+      
+      </div>
+    </main>
+
 <p align="center">
   <img width="300" height="200" src="monkeycoder.gif">
 </p>
+
 
 # Hi there, stranger 👋
 <!--
