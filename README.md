@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### Languages I know
 <p align="left">
    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img width="40" height="40" src="/icons/c++.png"></a>
-   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img width="40" height="40" src="/icons/csharp.png"></a>
+   <a href="https://kotlinlang.org/" target="_blank"><img width="40" height="40" src="/icons/kotlin.png"></a>
 </p>
 
 
