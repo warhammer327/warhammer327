@@ -1,6 +1,8 @@
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-
-   <style>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+    <style>
       #boxes {
         content: "";
         display: table;
@@ -8,7 +10,7 @@
       }
       div {
         float: left;
-        height: 47px;
+        height: 470px;
         width: 23%;
         padding: 0 10px;
       }
@@ -27,8 +29,9 @@
         text-align: center;
       }
     </style>
-
-<main id="boxes">
+  </head>
+  <body>
+    <main id="boxes">
       <h2>W3docs</h2>
       <div id="column1">
         <h2>What is Lorem Ipsum?</h2> 
@@ -43,6 +46,8 @@
       
       </div>
     </main>
+  </body>
+</html>
 
 <p align="center">
   <img width="300" height="200" src="monkeycoder.gif">
