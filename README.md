@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 ### Currently I'm working with
 <p align="left">
-    <a href="https://developer.android.com/" target="_blank"><img width="40" height="40" src="/icons/android_studio.png"></a>
-    <a href="https://kotlinlang.org/" target="_blank"><img width="40" height="40" src="/icons/kotlin.png"></a>
+    <a href="https://unity.com/" target="_blank"><img width="40" height="40" src="/icons/unity.png"></a> 
+    href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img width="40" height="40" src="/icons/csharp.png"></a>   |
 </p>
 
 ### Worked with in past 
