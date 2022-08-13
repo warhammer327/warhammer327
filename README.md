@@ -49,8 +49,11 @@ Here are some ideas to get you started:
 | IDE/Framework| Language |
 | :----: |:----:|
 | <a href="https://dotnet.microsoft.com/en-us/download" target="_blank"><img width="40" height="40" src="/icons/netcore.png"></a>  | <a href="https://www.python.org/about/gettingstarted/" target="_blank"><img width="40" height="40" src="/icons/csharp.png"></a>  | 
+
+|<a href="https://unity.com/" target="_blank"><img width="40" height="40" src="/icons/angluar.png"></a>   | <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img width="40" height="40" src="/icons/typescript.png"></a>   |
+
 |<a href="https://unity.com/" target="_blank"><img width="40" height="40" src="/icons/unity.png"></a>   | <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img width="40" height="40" src="/icons/csharp.png"></a>   |
-| <a href="https://developer.android.com/" target="_blank"><img width="40" height="40" src="/icons/android_studio.png"></a>   | <a href="https://kotlinlang.org/" target="_blank"><img width="40" height="40" src="/icons/kotlin.png"></a>   |
+
 
 
 ### My favourite tools
