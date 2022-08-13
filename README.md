@@ -30,8 +30,10 @@ Here are some ideas to get you started:
 
 ### Currently I'm working with
 <p align="left">
-    <a href="https://unity.com/" target="_blank"><img width="40" height="40" src="/icons/unity.png"></a> 
+    <a href="https://dotnet.microsoft.com/en-us/download" target="_blank"><img width="40" height="40" src="/icons/netcore.png"></a>
+    <a href="https://unity.com/" target="_blank"><img width="40" height="40" src="/icons/angular.png"></a>
     <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img width="40" height="40" src="/icons/csharp.png"></a> 
+    <a href="https://www.typescriptlang.org/" target="_blank"><img width="40" height="40" src="/icons/typescript.png"></a>
 </p>
 
 ### Worked with in past 
@@ -48,8 +50,8 @@ Here are some ideas to get you started:
 
 | IDE/Framework| Language |
 | :----: |:----:|
-| <a href="https://dotnet.microsoft.com/en-us/download" target="_blank"><img width="40" height="40" src="/icons/netcore.png"></a>  | <a href="https://www.python.org/about/gettingstarted/" target="_blank"><img width="40" height="40" src="/icons/csharp.png"></a>  | 
-|<a href="https://unity.com/" target="_blank"><img width="40" height="40" src="/icons/angular.png"></a>   | <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img width="40" height="40" src="/icons/typescript.png"></a>   |
+| <a href="https://dotnet.microsoft.com/en-us/download" target="_blank"><img width="40" height="40" src="/icons/netcore.png"></a>  | <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img width="40" height="40" src="/icons/csharp.png"></a>  | 
+|<a href="https://unity.com/" target="_blank"><img width="40" height="40" src="/icons/angular.png"></a>   | <a href="https://www.typescriptlang.org/" target="_blank"><img width="40" height="40" src="/icons/typescript.png"></a>   |
 |<a href="https://unity.com/" target="_blank"><img width="40" height="40" src="/icons/unity.png"></a>   | <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img width="40" height="40" src="/icons/csharp.png"></a>   |
 
 
