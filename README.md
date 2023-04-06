@@ -23,17 +23,21 @@ Here are some ideas to get you started:
 ### Languages I know
 <p align="left">
    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img width="40" height="40" src="/icons/c++.png"></a>
-   <a href="https://www.ruby-lang.org/en/" target="_blank"><img width="40" height="40" src="/icons/ruby.png"></a> -->
+   <a href="https://www.ruby-lang.org/en/" target="_blank"><img width="40" height="40" src="/icons/ruby.png"></a>
    <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img width="40" height="40" src="/icons/csharp.png"></a> 
 </p>
 
 
 ### Currently I'm working with
 <p align="left">
+<!--- 
     <a href="https://dotnet.microsoft.com/en-us/download" target="_blank"><img width="40" height="40" src="/icons/netcore.png"></a>
     <a href="https://unity.com/" target="_blank"><img width="40" height="40" src="/icons/angular.png"></a>
     <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img width="40" height="40" src="/icons/csharp.png"></a> 
     <a href="https://www.typescriptlang.org/" target="_blank"><img width="40" height="40" src="/icons/typescript.png"></a>
+    -->
+    <a href="https://www.ruby-lang.org/en/" target="_blank"><img width="40" height="40" src="/icons/ruby.png"></a>
+    <a href="https://rubyonrails.org/" target="_blank"><img width="40" height="40" src="/icons/rubyonrails.png"></a>
 </p>
 
 ### Worked with in past 
@@ -51,7 +55,7 @@ Here are some ideas to get you started:
 | IDE/Framework| Language |
 | :----: |:----:|
 | <a href="https://rubyonrails.org/" target="_blank"><img width="40" height="40" src="/icons/rubyonrails.png"></a>  | <a href="https://www.ruby-lang.org/en/" target="_blank"><img width="40" height="40" src="/icons/ruby.png"></a>  | 
-|<a href="https://unity.com/" target="_blank"><img width="40" height="40" src="/icons/angular.png"></a>   | <a href="https://www.typescriptlang.org/" target="_blank"><img width="40" height="40" src="/icons/typescript.png"></a>   |
+|<a href="https://dotnet.microsoft.com/en-us/download" target="_blank"><img width="40" height="40" src="/icons/netcore.png"></a>   | <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img width="40" height="40" src="/icons/csharp.png"></a>   |
 |<a href="https://unity.com/" target="_blank"><img width="40" height="40" src="/icons/unity.png"></a>   | <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img width="40" height="40" src="/icons/csharp.png"></a>   |
 |<a href="https://www.djangoproject.com/" target="_blank"><img width="40" height="40" src="/icons/django.png"></a>  |<a href="https://www.python.org/about/gettingstarted/" target="_blank"><img width="40" height="40" src="/icons/python.png"></a>   |
 
