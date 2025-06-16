@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 ### Languages I know
 <p align="left">
-   <a href="https://www.ruby-lang.org/en/" target="_blank"><img width="40" height="40" src="/icons/ruby.png"></a>
    <a href="https://python.org/" target="_blank"><img width="40" height="40" src="/icons/python.png"></a>
+   <a href="https://www.ruby-lang.org/en/" target="_blank"><img width="40" height="40" src="/icons/ruby.png"></a>
    <a href="https://go.dev" target="_blank"><img width="40" height="40" src="/icons/golang-official.svg"></a> 
 </p>
 
