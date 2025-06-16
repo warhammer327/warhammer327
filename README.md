@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 ### Languages I know
 <p align="left">
    <a href="https://www.ruby-lang.org/en/" target="_blank"><img width="40" height="40" src="/icons/ruby.png"></a>
+   <a href="https://python.org/" target="_blank"><img width="40" height="40" src="/icons/python.png"></a>
    <a href="https://go.dev" target="_blank"><img width="40" height="40" src="/icons/golang-official.svg"></a> 
-   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img width="40" height="40" src="/icons/c++.png"></a>
-  
 </p>
 
 
@@ -37,8 +36,8 @@ Here are some ideas to get you started:
     <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img width="40" height="40" src="/icons/csharp.png"></a> 
     <a href="https://www.typescriptlang.org/" target="_blank"><img width="40" height="40" src="/icons/typescript.png"></a>
     -->
-    <a href="https://www.ruby-lang.org/en/" target="_blank"><img width="40" height="40" src="/icons/ruby.png"></a>
-    <a href="https://rubyonrails.org/" target="_blank"><img width="40" height="40" src="/icons/rubyonrails.png"></a>
+    <a href="https://python.org/" target="_blank"><img width="40" height="40" src="/icons/python.png"></a>
+    <a href="https://fastapi.tiangolo.com//" target="_blank"><img width="40" height="40" src="/icons/FASTAPI.png"></a>
 </p>
 
 ### Worked with in past 
