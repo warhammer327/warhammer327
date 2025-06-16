@@ -37,7 +37,7 @@ Here are some ideas to get you started:
     <a href="https://www.typescriptlang.org/" target="_blank"><img width="40" height="40" src="/icons/typescript.png"></a>
     -->
     <a href="https://python.org/" target="_blank"><img width="40" height="40" src="/icons/python.png"></a>
-    <a href="https://fastapi.tiangolo.com//" target="_blank"><img width="40" height="40" src="/icons/FASTAPI.png"></a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank"><img width="40" height="40" src="/icons/FastAPI.png"></a>
 </p>
 
 ### Worked with in past 
